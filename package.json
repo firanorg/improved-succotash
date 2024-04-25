@@ -1,13 +1,13 @@
 {
   "name": "@firanorg/improved-succotash",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
   "license": "MIT",
   "dependencies": {
     "@firanorg/bookish-broccoli": "^1.0.1",
-    "@firanorg/scaling-goggles": "^1.0.1"
+    "@firanorg/scaling-goggles": "^1.0.2"
   },
   "keywords": [
     "pretty",
