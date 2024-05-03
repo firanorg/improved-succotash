@@ -1,13 +1,19 @@
 {
   "name": "@firanorg/improved-succotash",
-  "version": "3.2.5",
+  "version": "3.2.6",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
   "license": "MIT",
   "dependencies": {
     "@firanorg/bookish-broccoli": "^1.0.1",
-    "@firanorg/scaling-goggles": "^2.1.7"
+    "@firanorg/scaling-goggles": "^2.1.7",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "pretty",
@@ -380,5 +386,5 @@
   "bugs": {
     "url": "https://github.com/firanorg/improved-succotash/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
