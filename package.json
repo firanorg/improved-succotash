@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/improved-succotash",
-  "version": "3.2.11",
+  "version": "3.2.12",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -386,5 +386,5 @@
   "bugs": {
     "url": "https://github.com/firanorg/improved-succotash/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
